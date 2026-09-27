@@ -35,7 +35,8 @@
 </div>
 
 <script>
-const SCRIPT_URL = '[https://script.google.com/macros/s/AKfycbwwnu98mR0oYBAsZTQqXWBOolt-V7uUpDEwrTAfLxslJtMBBDB0Qb8eQXaZLcc68VRB/exec](https://script.google.com/macros/s/AKfycbzXwSsi9YZlEDDhLd7YYvNeCBcaHBswAKWxYeOiWdEvYTa31u06lZ_3iloya7YZFQvH2w/exec)';
+  const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzXwSsi9YZIEDDhLd7YYvNeCBcaHBswAKWxYeOiWdEvYTa31-JpY0oAnb13jW_jC1OQ/exec';
+
   document.getElementById('registroForm').addEventListener('submit', function(e) {
     e.preventDefault();
     
