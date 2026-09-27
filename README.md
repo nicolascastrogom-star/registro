@@ -35,8 +35,7 @@
 </div>
 
 <script>
-  // ATENCIÓN: Reemplaza la URL de abajo por tu URL de Google Apps Script (la que termina en /exec)
-  const SCRIPT_URL = 'TU_URL_DE_APPS_SCRIPT_AQUI';
+  const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycby1UGAad7k8InviGrhMvnVxhL4YDT_ndj4VVFrph6zj2fSIwltP2r9KS_5xIUWRJs71/exec';
 
   document.getElementById('registroForm').addEventListener('submit', function(e) {
     e.preventDefault();
